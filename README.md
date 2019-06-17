@@ -2,7 +2,7 @@
 Bot for downloading photos from instagram account
 
 ## Implementation
-This is an simple script build using python and selenium webdriver use to scrape photos from given instagram account.
+This is a simple python script build using python and selenium webdriver use to scrape photos from the given instagram account.
 
 ## Installation
 You should have the following preinstalled:
